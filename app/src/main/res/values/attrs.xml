@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquareGrid">
+        <attr name="color" format="color" />
+        <attr name="position" format="enum">
+            <enum name="x" value="0"/>
+            <enum name="y" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

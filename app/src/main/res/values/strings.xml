@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorSquares</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_end_game_screen">EndGameScreen</string>
+    <string name="high_score_preference_key">com.malevolentmare.colorsquares.highscore</string>
+    <string name="initials_preference_key">com.malevolentmare.colorsquares.initials</string>
+</resources>
